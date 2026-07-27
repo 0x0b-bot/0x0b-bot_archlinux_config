@@ -1,1 +1,31 @@
-/home/qwe/.config/Code - OSS/User/settings.json
+{
+	"chat.disableAIFeatures": true,
+	"workbench.settings.showAISearchToggle": false,
+
+	"workbench.browser.pageZoom": "110%",
+	"workbench.editor.restoreEditors": false,
+	"workbench.colorTheme": "Monokai Dimmed",
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
+	"workbench.sideBar.location": "right",
+	"workbench.startupEditor": "terminal",
+
+	"editor.fontFamily": "\"JetBrainsMono Nerd Font\", monospace ",
+	"editor.fontSize": 16,
+
+	"editor.inlayHints.enabled": "offUnlessPressed",
+	"editor.minimap.enabled": false,
+	"editor.mouseWheelZoom": true,
+	"editor.padding.top": 20,
+	"editor.quickSuggestions": {
+		"other": "on",
+		"comments": "off",
+		"strings": "on"
+	},
+	"editor.semanticHighlighting.enabled": true,
+
+	"editor.insertSpaces": false,
+	"editor.tabSize": 8,
+	"editor.detectIndentation": false,
+
+	"window.zoomPerWindow": false
+}
